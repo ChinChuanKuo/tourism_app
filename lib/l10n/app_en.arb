@@ -1,0 +1,98 @@
+{
+    "firstText": "Uni-Resort Mawudu",
+    "@firstText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "secondText": "Leofoo Village Theme Park",
+    "@secondText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "enterHint": "Enter your",
+    "@enterHint": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "successCopyText": "This serial number has been successfully copied",
+    "@successCopyText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "wrongMessageText": "Please Enter Current Infomation",
+    "@wrongMessageText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "officeText": "Office ID",
+    "@officeText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "nameText": "Name",
+    "@nameText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "idcardText": "ID Card",
+    "@idcardText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "birthdayText": "BirthDay（20210506）",
+    "@birthdayText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "manText": "Man",
+    "@manText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "womanText": "Woman",
+    "@womanText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "seatText": "Need Seat",
+    "@seatText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "unseatText": "Don't Seat",
+    "@unseatText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "rideText": "Take A Ride",
+    "@rideText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "selfText": "Go By Self",
+    "@selfText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "neihuText": "Neihu",
+    "@neihuText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "linkouText": "Linkou",
+    "@linkouText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "newText": "New Person",
+    "@newText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "deleteText": "Delete",
+    "@deleteText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "closeText": "Close",
+    "@closeText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "sureText": "Sure",
+    "@sureText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "copyText": "Copy",
+    "@copyText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "licensesText": "Licenses",
+    "@licensesText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "totalText": "Travel Total",
+    "@totalText": {
+      "description": "The conventional newborn programmer greeting"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "firstText": "馬武督統一度假村",
+    "@firstText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "secondText": "六福村主題樂園",
+    "@secondText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "enterHint": "輸入您的",
+    "@enterHint": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "successCopyText": "已成功複製此序號",
+    "@successCopyText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "wrongMessageText": "請輸入正確的資訊",
+    "@wrongMessageText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "officeText": "員工編號",
+    "@officeText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "nameText": "姓名",
+    "@nameText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "idcardText": "身分證字號",
+    "@idcardText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "birthdayText": "出生年月日（20210506）",
+    "@birthdayText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "manText": "男士",
+    "@manText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "womanText": "女士",
+    "@womanText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "seatText": "佔位",
+    "@seatText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "unseatText": "不佔位",
+    "@unseatText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "rideText": "搭車",
+    "@rideText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "selfText": "自行前往",
+    "@selfText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "neihuText": "內湖",
+    "@neihuText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "linkouText": "林口",
+    "@linkouText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "newText": "新增人員",
+    "@newText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "deleteText": "刪除",
+    "@deleteText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "closeText": "關閉",
+    "@closeText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "sureText": "確認",
+    "@sureText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "copyText": "複製",
+    "@copyText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "licensesText": "序號",
+    "@licensesText": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "totalText": "旅遊總金額",
+    "@totalText": {
+      "description": "The conventional newborn programmer greeting"
+    }
+}
